@@ -2,7 +2,7 @@
 
 import React from 'react';
 import { View, Text, Image, StyleSheet, StatusBar } from 'react-native';
-const cardImg = require("./assets/untitiled9.jpeg");
+const cardImg = require("./assets/photo.jpeg");
 
 const ProfileScreen = () => {
   return (
